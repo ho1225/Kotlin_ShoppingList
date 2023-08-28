@@ -27,7 +27,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Installing
 
-1. Clone the repository: git clone https://github.com/ho1225/Kotlin_ShoppingList.git  
+Clone the repository: git clone https://github.com/ho1225/Kotlin_ShoppingList.git
 
 Open the project in Android Studio.
 
