@@ -1,11 +1,6 @@
 # Kotlin_ShoppingList
 MVVM Kotlin Android ShopplingList Application 
 
-![GitHub stars](https://img.shields.io/github/stars/philipplackner/MVVMShoppingList?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/philipplackner/MVVMShoppingList?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/philipplackner/MVVMShoppingList?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/philipplackner/MVVMShoppingList?style=flat-square)
-
 A simple shopping list app demonstrating the MVVM (Model-View-ViewModel) architecture in Android.
 
 ## Screenshots
