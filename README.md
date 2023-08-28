@@ -1,5 +1,4 @@
 # Kotlin_ShoppingList
-MVVM Kotlin Android ShopplingList Application 
 
 A simple shopping list app demonstrating the MVVM (Model-View-ViewModel) architecture in Android.
 
