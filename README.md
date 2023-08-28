@@ -5,9 +5,9 @@ A simple shopping list app demonstrating the MVVM (Model-View-ViewModel) archite
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/ho1225/Kotlin_ShoppingList/assets/56968144/227c9697-4191-46d5-9968-7cb629990026))
-![Screenshot 2](![image](https://github.com/ho1225/Kotlin_ShoppingList/assets/56968144/d20452fb-b0ea-4135-9041-94491e8f0a7d)
-)
+![image](https://github.com/ho1225/Kotlin_ShoppingList/assets/56968144/227c9697-4191-46d5-9968-7cb629990026)
+![image](https://github.com/ho1225/Kotlin_ShoppingList/assets/56968144/d20452fb-b0ea-4135-9041-94491e8f0a7d)
+
 
 ## Features
 
