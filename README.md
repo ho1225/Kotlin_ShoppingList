@@ -11,7 +11,6 @@ A simple shopping list app demonstrating the MVVM (Model-View-ViewModel) archite
 ## Features
 
 - Add, edit, and delete shopping list items.
-- Mark items as completed.
 - Clean and intuitive user interface.
 - Architecture follows the MVVM design pattern.
 - Written in Kotlin.
